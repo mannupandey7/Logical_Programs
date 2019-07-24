@@ -2,7 +2,7 @@ package com.app.b;
 
 import java.util.Scanner;
 
-public class printOnlyNumerics {
+public class Print_Only_Numerics_In_Given_String {
 
 	private static void printSpcl(String str) {
 		for(int i=0; i<str.length(); i++) {

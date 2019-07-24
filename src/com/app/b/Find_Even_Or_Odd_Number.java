@@ -2,7 +2,7 @@ package com.app.b;
 
 import java.util.Scanner;
 
-public class Even_Numbers {
+public class Find_Even_Or_Odd_Number {
 
 	public static void main(String[] args) {
 		Scanner r= new Scanner(System.in);

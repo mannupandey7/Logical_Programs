@@ -2,7 +2,7 @@ package com.app.b;
 
 import java.util.Scanner;
 
-public class AlphabetCharacterv {
+public class Check_Given_String_Is_AlphabetCharacterv_Or_Not {
 
 	public static void main(String[] args) {
 

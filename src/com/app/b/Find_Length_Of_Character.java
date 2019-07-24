@@ -2,7 +2,7 @@ package com.app.b;
 
 import java.util.Scanner;
 
-public class FindLengthOfCharacter {
+public class Find_Length_Of_Character {
 
 	public String findLength(String str) {
 		int count=0;
@@ -16,7 +16,7 @@ public class FindLengthOfCharacter {
 	public static void main(String[] args) {
 
 		String str= new Scanner(System.in).next();
-		FindLengthOfCharacter f= new FindLengthOfCharacter();
+		Find_Length_Of_Character f= new Find_Length_Of_Character();
 		f.findLength(str);
 	}
 

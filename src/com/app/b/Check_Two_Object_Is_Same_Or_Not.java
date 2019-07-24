@@ -2,7 +2,7 @@ package com.app.b;
 
 import java.util.Scanner;
 
-public class CheckHiiHello {
+public class Check_Two_Object_Is_Same_Or_Not {
 
 	public static void check( String str) {
 		if(str.equals("abc")) {

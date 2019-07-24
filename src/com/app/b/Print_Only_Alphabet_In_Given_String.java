@@ -1,6 +1,6 @@
 package com.app.b;
 
-public class PrintOnlyAlphabet {
+public class Print_Only_Alphabet_In_Given_String {
 
 	public static void main(String[] args) {
 

@@ -1,6 +1,6 @@
 package com.app.b;
 
-public class printOnlySpecialChar {
+public class Print_Only_SpecialChar_In_Given_String {
 
 	private static void printOnlySpecial(String s) {
 
